@@ -1,0 +1,30 @@
+#bg-image{
+    background-image: url('../images/Login.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#user-image{
+    background-image: url('../images/gradient-bokeh-digital-business-wallpaper.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+
+.transparent{
+    background-color: #006b75d7;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.student.card{
+}
+
+
+.border{
+    border-radius: 18px;
+}

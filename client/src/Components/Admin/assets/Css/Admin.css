@@ -1,0 +1,34 @@
+#Admin{
+    background-image: url('../images/Admin.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#addBackground{
+    background-image: url('../images/13295527_5153829.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.transparentAdmin{
+    background-color: #73c999d7;
+}
+
+.addtransparent{
+    background-color: #a4bdc1b4;
+}
+
+.change-size .input-group-text{
+    padding: 0 24px;
+    font-size: larger;
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.border{
+    border-radius: 18px;
+}
